@@ -1,0 +1,3 @@
+/Users/aa/AndroidStudioProjects/M2/resvg/.cxx/Debug/4v6h1a3u/x86/CMakeFiles/resvg.dir
+/Users/aa/AndroidStudioProjects/M2/resvg/.cxx/Debug/4v6h1a3u/x86/CMakeFiles/edit_cache.dir
+/Users/aa/AndroidStudioProjects/M2/resvg/.cxx/Debug/4v6h1a3u/x86/CMakeFiles/rebuild_cache.dir

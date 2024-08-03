@@ -1,0 +1,1 @@
+/Users/aa/AndroidStudioProjects/M2/resvg/src/main/cpp/CMakeLists.txt

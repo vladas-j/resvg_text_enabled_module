@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/aa/AndroidStudioProjects/M2/resvg/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/aa/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/aa/AndroidStudioProjects/M2/resvg/.cxx/Debug/4v6h1a3u/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/aa/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/aa/AndroidStudioProjects/M2/resvg/.cxx/Debug/4v6h1a3u/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "resvg::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "resvg",
+      "output": "/Users/aa/AndroidStudioProjects/M2/resvg/build/intermediates/cxx/Debug/4v6h1a3u/obj/x86/libresvg.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/aa/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/aa/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

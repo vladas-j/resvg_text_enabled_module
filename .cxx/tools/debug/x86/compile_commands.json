@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/aa/AndroidStudioProjects/M2/resvg/.cxx/Debug/4v6h1a3u/x86",
+  "command": "/Users/aa/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android21 --sysroot=/Users/aa/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dresvg_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC -o CMakeFiles/resvg.dir/resvg.cpp.o -c /Users/aa/AndroidStudioProjects/M2/resvg/src/main/cpp/resvg.cpp",
+  "file": "/Users/aa/AndroidStudioProjects/M2/resvg/src/main/cpp/resvg.cpp"
+}
+]
