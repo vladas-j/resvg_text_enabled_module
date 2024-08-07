@@ -42,7 +42,7 @@ publishing {
         register<MavenPublication>("release") {
             groupId = "io.github.rustui"
             artifactId = "resvg"
-            version = "0.2"
+            version = "0.3"
 
             pom {
                 name = "resvg"
