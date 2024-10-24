@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "io.github.rustui.resvg"
+    namespace = "io.github.vladas-j.resvg"
     compileSdk = 34
 
     defaultConfig {
@@ -40,31 +40,31 @@ android {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            groupId = "io.github.rustui"
+            groupId = "io.github.vladas-j"
             artifactId = "resvg"
             version = "0.3"
 
             pom {
                 name = "resvg"
                 description = "An SVG rendering library."
-                url = "https://github.com/rustui/resvg_module"
+                url = "https://github.com/vladas-j/resvg_text_enabled_module"
                 developers {
                     developer {
-                        id = "rustui"
-                        name = "rustui"
-                        email = "90625190+rustui@users.noreply.github.com"
+                        id = "vladas-j"
+                        name = "vladas-j"
+                        email = "90625190+vladas-j@users.noreply.github.com"
                     }
                 }
                 licenses {
                     license {
                         name = "MIT license"
-                        url = "https://github.com/rustui/resvg_module/blob/main/LICENSE"
+                        url = "https://github.com/vladas-j/resvg_text_enabled_module.git/blob/main/LICENSE"
                     }
                 }
                 scm {
-                    url = "https://github.com/rustui/resvg_module.git"
-                    connection = "scm:git:git://github.com/rustui/resvg_module.git"
-                    developerConnection = "scm:git:ssh://github.com/rustui/resvg_module.git"
+                    url = "https://github.com/vladas-j/resvg_text_enabled_module.git"
+                    connection = "scm:git:git://github.com/vladas-j/resvg_text_enabled_module.git"
+                    developerConnection = "scm:git:ssh://github.com/vladas-j/resvg_text_enabled_module.git"
                 }
             }
 
